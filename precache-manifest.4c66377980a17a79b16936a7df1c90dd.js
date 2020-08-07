@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ab9428852b186f924d5e7e10902511a",
+    "revision": "3369523de8b59fb99c7b3f558ac0a846",
     "url": "/bday/index.html"
   },
   {
-    "revision": "0c562adfa335658b5209",
+    "revision": "b10ffb031c91677b6041",
     "url": "/bday/static/css/main.020e056c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bday/static/js/2.d6c5a952.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0c562adfa335658b5209",
-    "url": "/bday/static/js/main.32add529.chunk.js"
+    "revision": "b10ffb031c91677b6041",
+    "url": "/bday/static/js/main.c748342e.chunk.js"
   },
   {
     "revision": "a40c8dce5b5641c0c7ac",
