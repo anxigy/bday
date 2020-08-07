@@ -48,7 +48,7 @@ function App() {
   })
 
   return (
-    <div id="container" className="App" style={{overflowY:'scroll'}} onScroll={onScroll}>
+    <div id="container" className="App" style={{overflowY:'scroll', overflowX:'hidden'}} onScroll={onScroll}>
       <header>
         <div className="logo-header" id="logo-header">
           <img src={logo} className="logo" alt="Responsive image" />
