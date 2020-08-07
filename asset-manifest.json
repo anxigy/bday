@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/bday/static/css/main.020e056c.chunk.css",
+    "main.js": "/bday/static/js/main.32add529.chunk.js",
+    "main.js.map": "/bday/static/js/main.32add529.chunk.js.map",
+    "runtime-main.js": "/bday/static/js/runtime-main.4f47d400.js",
+    "runtime-main.js.map": "/bday/static/js/runtime-main.4f47d400.js.map",
+    "static/js/2.d6c5a952.chunk.js": "/bday/static/js/2.d6c5a952.chunk.js",
+    "static/js/2.d6c5a952.chunk.js.map": "/bday/static/js/2.d6c5a952.chunk.js.map",
+    "index.html": "/bday/index.html",
+    "precache-manifest.ff59c8ee3145cfb38bf52137e8b4512e.js": "/bday/precache-manifest.ff59c8ee3145cfb38bf52137e8b4512e.js",
+    "service-worker.js": "/bday/service-worker.js",
+    "static/css/main.020e056c.chunk.css.map": "/bday/static/css/main.020e056c.chunk.css.map",
+    "static/js/2.d6c5a952.chunk.js.LICENSE.txt": "/bday/static/js/2.d6c5a952.chunk.js.LICENSE.txt",
+    "static/media/04_illust.png": "/bday/static/media/04_illust.298fd319.png",
+    "static/media/BdayMain.scss": "/bday/static/media/Gotham-Black.8faba3db.ttf",
+    "static/media/BdayGift.scss": "/bday/static/media/NotoSansCJKkr-Light.1883dc03.otf",
+    "static/media/App.scss": "/bday/static/media/Raleway-Medium.2ec85574.ttf",
+    "static/media/fail-1.jpeg": "/bday/static/media/fail-1.b419bbc0.jpeg",
+    "static/media/fail-2.jpeg": "/bday/static/media/fail-2.ea26b560.jpeg",
+    "static/media/fail-3.png": "/bday/static/media/fail-3.0d2327ba.png",
+    "static/media/fail-4.png": "/bday/static/media/fail-4.5c84bf0c.png",
+    "static/media/img.png": "/bday/static/media/img.4cd4465f.png",
+    "static/media/img_photo history.png": "/bday/static/media/img_photo history.7ece0cde.png",
+    "static/media/logo.png": "/bday/static/media/logo.c225b6fd.png",
+    "static/media/phoca.png": "/bday/static/media/phoca.e1ae5fdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f47d400.js",
+    "static/js/2.d6c5a952.chunk.js",
+    "static/css/main.020e056c.chunk.css",
+    "static/js/main.32add529.chunk.js"
+  ]
+}
